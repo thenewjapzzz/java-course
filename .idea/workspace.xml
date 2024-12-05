@@ -5,30 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5bc89d3-abfe-4a0d-b7b9-496238f1ae36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-programacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/exercises/__1__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/input/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/input/VariousInputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/mathfunctions/Bhaskara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/mathfunctions/MathFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/conditionalstructure/CompoundConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/conditionalstructure/ConditionChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/conditionalstructure/SimpleConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +50,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Bhaskara.executor": "Run",
+    "Application.CompoundConditional.executor": "Run",
+    "Application.ConditionChaining.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example2.executor": "Run",
     "Application.Example3.executor": "Run",
@@ -74,6 +63,7 @@
     "Application.Exercise6.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathFunctions.executor": "Run",
+    "Application.SimpleConditional.executor": "Run",
     "Application.VariousInputs.executor": "Run",
     "Application.__1__.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -95,6 +85,23 @@
       <updated>1732424954494</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
