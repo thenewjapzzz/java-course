@@ -4,10 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5bc89d3-abfe-4a0d-b7b9-496238f1ae36" name="Changes" comment="Starting exercises list for module 5">
-      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/section5/exercises/Exercise8.java" afterDir="false" />
+    <list default="true" id="c5bc89d3-abfe-4a0d-b7b9-496238f1ae36" name="Changes" comment="finish exercises module 5">
+      <change afterPath="$PROJECT_DIR$/src/com/conditionalstructure/switchcase/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/conditionalstructure/ternarycondition/TernaryCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/repetitivestructure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/repetitivestructure/whilestructure/WhileStructure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/exercises/__1__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/exercises/__1__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/input/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/input/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/input/VariousInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/input/VariousInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/mathfunctions/Bhaskara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/mathfunctions/Bhaskara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/mathfunctions/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/mathfunctions/MathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/testeprocessamento/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/testeprocessamento/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/testeprocessamento/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section4/testeprocessamento/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sequentialstructure/testeprocessamento/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/conditionalstructure/CompoundConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/conditionalstructure/CompoundConditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/conditionalstructure/ConditionChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/conditionalstructure/ConditionChaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/conditionalstructure/SimpleConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/conditionalstructure/SimpleConditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/section5/exercises/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditionalstructure/exercises/Exercise8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +86,10 @@
     "Application.Main.executor": "Run",
     "Application.MathFunctions.executor": "Run",
     "Application.SimpleConditional.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TernaryCondition.executor": "Run",
     "Application.VariousInputs.executor": "Run",
+    "Application.WhileStructure.executor": "Run",
     "Application.__1__.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733380557451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish exercises module 5">
+      <option name="closed" value="true" />
+      <created>1733902170892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733902170892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Starting exercises list for module 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting exercises list for module 5" />
+    <MESSAGE value="finish exercises module 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish exercises module 5" />
   </component>
 </project>
